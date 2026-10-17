@@ -13,8 +13,8 @@ tags:
   - Miscellaneous
 depends_3rdparty: true
 related_software_url: https://github.com/domainaware/parsedmarc
-stargazers_count: 213
-updated_at: '2026-10-14'
+stargazers_count: 214
+updated_at: '2026-10-17'
 archived: false
 current_release:
   tag: v1.7.1
@@ -24,4 +24,4 @@ commit_history:
   2026-07: 10
   2026-08: 3
   2026-09: 32
-  2026-10: 9
+  2026-10: 10
