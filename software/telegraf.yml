@@ -8,8 +8,8 @@ platforms:
 tags:
   - Metrics & Metric Collection
 source_code_url: https://github.com/influxdata/telegraf
-stargazers_count: 17867
-updated_at: '2026-10-15'
+stargazers_count: 17872
+updated_at: '2026-10-20'
 archived: false
 current_release:
   tag: v1.40.2
@@ -26,4 +26,4 @@ commit_history:
   2026-07: 127
   2026-08: 146
   2026-09: 177
-  2026-10: 69
+  2026-10: 97
