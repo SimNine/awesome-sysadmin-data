@@ -5,10 +5,11 @@ description: "Open source observability platform for logs, metrics, traces, and 
 licenses:
   - AGPL-3.0
 platforms:
-  - Python
-  - TypeScript
-  - Rust
-  - TypeScript
+  - Docker
 tags:
   - Log Management
+  - Metrics & Metric Collection
+  - Monitoring & Status Pages
+  - Troubleshooting
+  - Web
 depends_3rdparty: false
