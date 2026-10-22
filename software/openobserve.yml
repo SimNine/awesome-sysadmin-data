@@ -1,7 +1,7 @@
 name: "OpenObserve"
 website_url: "https://openobserve.ai/"
 source_code_url: "https://github.com/openobserve/openobserve"
-description: "Open source observability platform for logs, metrics, traces, and pipelines. A sophisticated, simple and highly performant alternative to Datadog, Splunk, Elasticsearch, Mezmo and the like."
+description: "Observability platform for logs, with metrics, traces, and pipelines. Performant and highly featured alternative to Datadog, Splunk, Elasticsearch, Mezmo and the like."
 licenses:
   - AGPL-3.0
 platforms:
@@ -12,4 +12,3 @@ tags:
   - Monitoring & Status Pages
   - Troubleshooting
   - Web
-depends_3rdparty: false
